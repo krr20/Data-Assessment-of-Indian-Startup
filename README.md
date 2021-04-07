@@ -1,1 +1,0 @@
-# Data-Assessment-of-Indian-Startup

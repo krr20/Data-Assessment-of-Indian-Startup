@@ -1,9 +1,4 @@
-INTRODUCTION = Interested in the Indian startup ecosystem just like me?
- 	Wanted to know what type of startups are getting funded in the
- 	last few years? Wanted to know who are the important investors? 
-      Wanted to know the hot fields that get a lot of funding these days? 
-	This dataset is a chance to explore the Indian start up scene. 
-	Deep dive into funding data and derive insights into the future!
+
 
 ABOUT DATASET= This dataset has funding information of the Indian 
        startups from January 2015 to August 2017. It includes columns 
